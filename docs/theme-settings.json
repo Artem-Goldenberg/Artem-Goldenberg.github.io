@@ -1,0 +1,10 @@
+{
+    "theme": {
+        "color": {
+            "standard-orange": "#F1A55F"
+        },
+        "typography": {
+            "html-font": "monospace"
+        }
+    }
+}
